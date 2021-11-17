@@ -4,12 +4,12 @@
     "price":27700
   },
   {
-  "name":"Pixel Chrombook",
-  "price": 12000
+    "name":"Pixel Chrombook",
+    "price": 12000
   },
   {
-  "name":"Chromcast",
-  "price":1440
+    "name":"Chromcast",
+    "price":1440
   }
 ]
 
